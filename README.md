@@ -55,6 +55,9 @@
 **读笔记**：从 [Week 1 心智模型](notes/week-01-mental-model.md) 开始，每周都有「自测题 + 名词小词典」。
 
 **跑 Notebook**：需要一张 24GB+ 的 GPU（RTX 4090/5090 均可）：
+优云智算⚡️，一键部署:llm-inference 配套的镜像完整所有教程在这里也能看到
+----------
+🔗https://www.compshare.cn/images/z94BjvdfkB9a?referral_code=K0MoLZhFAPwBLmbh2w8u3H
 ```bash
 pip install vllm==0.28.0 matplotlib
 # 按 notebooks/ 里 week01 → week07 的顺序执行
